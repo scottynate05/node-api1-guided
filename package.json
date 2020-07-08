@@ -1,0 +1,29 @@
+{
+  "name": "api1-guided",
+  "version": "1.0.0",
+  "description": "for class",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottynate05/node-api1-guided.git"
+  },
+  "author": "Nathan Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottynate05/node-api1-guided/issues"
+  },
+  "homepage": "https://github.com/scottynate05/node-api1-guided#readme"
+}
